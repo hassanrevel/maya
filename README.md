@@ -139,4 +139,4 @@ Future work may include calendar integrations, patient portals, multilingual sup
 
 ## 📚 Research Context
 
-This project aligns with current research in conversational AI for healthcare administration, ReAct-style reasoning, agentic workflows using state graphs, and practical alternatives to complex multi-agent systems.
+This project strongly aligns with current research in conversational AI for healthcare administration, ReAct-style reasoning, agentic workflows using state graphs, and practical scalable alternatives to complex multi-agent systems.
