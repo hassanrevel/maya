@@ -1,6 +1,6 @@
 from langchain_community.utilities.sql_database import SQLDatabase
 from langchain_community.agent_toolkits import create_sql_agent
-from langchain.tools.retriever import create_retriever_tool
+from langchain_core.tools import create_retriever_tool
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 from langchain.tools import tool
